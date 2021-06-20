@@ -1,4 +1,4 @@
-# COMPUTE AND MAP THE SHORTEST DRIVING DISTANCE IN R
+# Computing and mapping the shortest driving distance in R
 
 This repo will show you how to effortlessly compute and map the shortest driving distance from a locality to any object using R
 
