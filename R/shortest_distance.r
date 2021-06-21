@@ -4,15 +4,15 @@
 # 2021-06-20                                          #
 #######################################################
 
-# |￣￣￣￣￣￣ |
-# | BEGIN      | 
-# | REPLICATION| 
-# |            |
-# |            | 
-# | ＿＿＿＿＿__| 
-# (\__/) || 
-# (•ㅅ•) || 
-# / 　 づ                                                                                    
+     # 	|￣￣￣￣￣￣|
+    # 	| BEGIN      | 
+   # 	| REPLICATION| 
+  # 	|            |
+ # 	|            | 
+  # 	| ＿＿＿＿＿__| 
+   # 	(\__/) || 
+    # 	(•ㅅ•) || 
+     # 	/ 　 づ                                                                                    
 
 # install libraries if needed
 if(!require("tidyverse")) install.packages("tidyverse")
@@ -208,12 +208,12 @@ geom_sf(data=bb, aes(fill = cat), color=NA, size=0) +
     subtitle = "at census circle level", 
     caption = "")
 
-#    |￣￣￣￣￣￣ |
-#	 | END        | 
-#    | REPLICATION| 
-#    |            |
-#    |            | 
-#    | ＿＿＿＿＿__| 
-#    (\__/) || 
-#    (•ㅅ•) || 
-#    / 　 づ                                                                                    
+#	|￣￣￣￣￣￣ |
+ #    	| END        | 
+  #    	| REPLICATION| 
+   #   	|            |
+    #   |            | 
+   #    | ＿＿＿＿＿__| 
+  #    	(\__/) || 
+#    	(•ㅅ•) || 
+#    	/ 　 づ                                                                                    
